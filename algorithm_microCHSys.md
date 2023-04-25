@@ -9,7 +9,7 @@ GitHub: https://github.com/YujiSODE/microCHSys
 >This software is released under the MIT License.  
 >See LICENSE or http://opensource.org/licenses/mit-license.php  
 ______
-## micro Convex Hull System (micro C. H. Sys.)"
+## micro Convex Hull System (micro C. H. Sys.)
 
 Moore neighborhood: c0 and c1 to c8.
 ```

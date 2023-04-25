@@ -1,7 +1,7 @@
-# microCHSys/algorithm_microCHSys.md
 <!-- logo image of "microCHSys" -->
 <h1><img width=400 src='logoIMG/mCHSys_logo_std10%.png' alt='logo of microCHSys_10%'></h1>
 
+# microCHSys/algorithm_microCHSys.md
 Algorithm for micro Convex Hull System (micro C. H. Sys.).
 ___
 GitHub: https://github.com/YujiSODE/microCHSys  

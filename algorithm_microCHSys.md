@@ -1,5 +1,5 @@
 <!-- logo image of "microCHSys" -->
-<h1><img width=400 src='logoIMG/mCHSys_logo.png' alt='logo of microCHSys'></h1>
+<h1><img width=200 src='logoIMG/mCHSys_logo.png' alt='logo of microCHSys'></h1>
 
 # microCHSys/algorithm_microCHSys.md
 Algorithm for micro Convex Hull System (micro C. H. Sys.).

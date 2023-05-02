@@ -2,14 +2,16 @@
 <h1><img width=200 src='logoIMG/mCHSys_logo.png' alt='logo of microCHSys'></h1>
 
 # microCHSys/algorithm_microCHSys.md
-Algorithm for micro Convex Hull System (micro C. H. Sys.).
+Algorithm for micro Convex Hull System (mCHSys).
 ___
 GitHub: https://github.com/YujiSODE/microCHSys  
 >Copyright (c) 2023 Yuji SODE \<yuji.sode@gmail.com\>  
 >This software is released under the MIT License.  
 >See LICENSE or http://opensource.org/licenses/mit-license.php  
 ______
-## micro Convex Hull System (micro C. H. Sys.)
+## micro Convex Hull System (mCHSys)
+<div><img width=200 src='IMG/Image_for_algorithm_mCHSys_1_2.png' alt='Image to show the algorithm in APNG'>
+<p><b>Figure 1.</b> Image to show the algorithm in APNG.</p></div>
 
 Moore neighborhood: c0 and c1 to c8.
 ```

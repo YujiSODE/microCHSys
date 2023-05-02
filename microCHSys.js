@@ -6,7 +6,7 @@
 *	This software is released under the MIT License.
 *	See LICENSE or http://opensource.org/licenses/mit-license.php
 *===================================================================
-* Tool to extract contour from a image using micro Convex Hull System (micro C. H. Sys.).
+* Tool to extract contour from a image using micro Convex Hull System (microCHSys).
 *
 *===================================================================
 */

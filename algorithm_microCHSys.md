@@ -2,7 +2,7 @@
 <h1><img width=200 src='logoIMG/mCHSys_logo.png' alt='logo of microCHSys'></h1>
 
 # microCHSys/algorithm_microCHSys.md
-Algorithm for micro Convex Hull System (mCHSys).
+Tool to extract contour from a image using micro Convex Hull System (microCHSys).
 ___
 GitHub: https://github.com/YujiSODE/microCHSys  
 >Copyright (c) 2023 Yuji SODE \<yuji.sode@gmail.com\>  

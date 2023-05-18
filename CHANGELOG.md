@@ -4,6 +4,7 @@
 
 ## [0.1 beta] - 2023-05-19
 # Fixed
+- [`index.html`] line 125: space was deleted.
 - [`index.html`] lines 17 and 57: they were corrected from `micro C. H. Sys.` to `microCHSys`.
 
 ## [0.1 beta] - 2023-05-01

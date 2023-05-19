@@ -2,6 +2,7 @@
 # microCHSys
 ## [Unreleased]
 
+## Released: [0.1 beta] - 2023-05-19
 ## [0.1 beta] - 2023-05-19
 # Added
 - [`README.md`] lines 12-16:  

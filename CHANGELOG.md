@@ -2,9 +2,21 @@
 # microCHSys
 ## [Unreleased]
 
+## [0.2 beta] - 2025-04-24
+## Added
+- [`README.md`]: added two sections: `Scripts` and `Compatibility`
+
+## Changed
+- [`LICENSE`]: updated copyright year from `2023` to `2023-2025`
+- [`README.md`]: updated copyright year from `2023` to `2023-2025`
+- [`algorithm_microCHSys.md`]: updated copyright year from `2023` to `2023-2025`
+- [`index.html`]: updated copyright year from `2023` to `2023-2025`
+- [`microCHSys.js`]: updated copyright year from `2023` to `2023-2025`
+- [`CHANGELOG.md`]: updated on 2025-04-24
+
 ## Released: [0.1 beta] - 2023-05-19
 ## [0.1 beta] - 2023-05-19
-# Added
+## Added
 - [`README.md`] lines 12-16:  
   ```
   
@@ -14,7 +26,7 @@
   
   ```
 
-# Fixed
+## Fixed
 - [`index.html`] line 125: space was deleted.
 - [`index.html`] lines 17 and 57: they were corrected from `micro C. H. Sys.` to `microCHSys`.
 

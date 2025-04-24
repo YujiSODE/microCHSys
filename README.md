@@ -5,7 +5,7 @@
 Tool to extract contour from a image using micro Convex Hull System (microCHSys).
 ___
 GitHub: https://github.com/YujiSODE/microCHSys  
->Copyright (c) 2023 Yuji SODE \<yuji.sode@gmail.com\>  
+>Copyright (c) 2023-2025 Yuji SODE \<yuji.sode@gmail.com\>  
 >This software is released under the MIT License.  
 >See LICENSE or http://opensource.org/licenses/mit-license.php  
 ______
@@ -13,4 +13,15 @@ ______
 ## [Algorithm](algorithm_microCHSys.md)
 <div><img width=200 src='IMG/Image_for_algorithm_mCHSys_1_2.png' alt='Image to show the algorithm in APNG'>
 <p><b>Figure 1.</b> Image to show the algorithm in APNG.</p></div>
+
+## Scripts
+### Main script
+- [`microCHSys.js`](microCHSys.js)
+
+### GUI
+- [`index.html`](index.html): GUI
+
+## Compatibility
+- Firefox `137.0.2+` (64-bit)
+- Firefox `98.0.1+` (64-bit)
 

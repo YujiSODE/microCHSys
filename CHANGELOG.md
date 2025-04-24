@@ -4,7 +4,12 @@
 
 ## [0.2 beta] - 2025-04-24
 ## Changed
-- [`README.md`]: updated on 2025-04-24
+- [`LICENSE`]: updated copyright year from `2023` to `2023-2025`
+- [`README.md`]: updated copyright year from `2023` to `2023-2025`
+- [`algorithm_microCHSys.md`]: updated copyright year from `2023` to `2023-2025`
+- [`index.html`]: updated copyright year from `2023` to `2023-2025`
+- [`microCHSys.js`]: updated copyright year from `2023` to `2023-2025`
+- [`CHANGELOG.md`]: updated on 2025-04-24
 
 ## Released: [0.1 beta] - 2023-05-19
 ## [0.1 beta] - 2023-05-19

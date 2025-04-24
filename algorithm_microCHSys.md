@@ -5,7 +5,7 @@
 Tool to extract contour from a image using micro Convex Hull System (microCHSys).
 ___
 GitHub: https://github.com/YujiSODE/microCHSys  
->Copyright (c) 2023 Yuji SODE \<yuji.sode@gmail.com\>  
+>Copyright (c) 2023-2025 Yuji SODE \<yuji.sode@gmail.com\>  
 >This software is released under the MIT License.  
 >See LICENSE or http://opensource.org/licenses/mit-license.php  
 ______

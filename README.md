@@ -14,3 +14,14 @@ ______
 <div><img width=200 src='IMG/Image_for_algorithm_mCHSys_1_2.png' alt='Image to show the algorithm in APNG'>
 <p><b>Figure 1.</b> Image to show the algorithm in APNG.</p></div>
 
+## Scripts
+### Main script
+- [`microCHSys.js`](microCHSys.js)
+
+### GUI
+- [`index.html`](index.html): GUI
+
+## Compatibility
+- Firefox `137.0.2+` (64-bit)
+- Firefox `98.0.1+` (64-bit)
+

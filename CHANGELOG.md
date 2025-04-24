@@ -3,6 +3,9 @@
 ## [Unreleased]
 
 ## [0.2 beta] - 2025-04-24
+## Added
+- [`README.md`]: added two sections: `Scripts` and `Compatibility`
+
 ## Changed
 - [`LICENSE`]: updated copyright year from `2023` to `2023-2025`
 - [`README.md`]: updated copyright year from `2023` to `2023-2025`

@@ -2,6 +2,7 @@
 # microCHSys
 ## [Unreleased]
 
+## Released: [0.2 beta] - 2025-04-24
 ## [0.2 beta] - 2025-04-24
 ## Added
 - [`README.md`]: added two sections: `Scripts` and `Compatibility`

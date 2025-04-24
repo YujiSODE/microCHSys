@@ -2,9 +2,13 @@
 # microCHSys
 ## [Unreleased]
 
+## [0.2 beta] - 2025-04-24
+## Changed
+- [`README.md`]: updated on 2025-04-24
+
 ## Released: [0.1 beta] - 2023-05-19
 ## [0.1 beta] - 2023-05-19
-# Added
+## Added
 - [`README.md`] lines 12-16:  
   ```
   
@@ -14,7 +18,7 @@
   
   ```
 
-# Fixed
+## Fixed
 - [`index.html`] line 125: space was deleted.
 - [`index.html`] lines 17 and 57: they were corrected from `micro C. H. Sys.` to `microCHSys`.
 

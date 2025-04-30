@@ -3,6 +3,9 @@
 ## [Unreleased]
 
 ## [1.0] - 2025-04-30
+## Changed
+- [`README.md`]: updated according to added two sample results
+
 ## Added
 - [`IMG/deer_20250418_NC_USA_300x300_2in1.png`]: sample result using a picture of a deer (standard: 0.12)
 - [`IMG/HyphantocerasOrientale_20191128_1a_small-min_2in1.png`]: sample result using a picture of a _Hyphantoceras_ _orientale_ (standard: 0.06)  

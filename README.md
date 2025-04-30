@@ -25,3 +25,12 @@ ______
 - Firefox `137.0.2+` (64-bit)
 - Firefox `98.0.1+` (64-bit)
 
+## Samples
+<div><img width=400 src='IMG/deer_20250418_NC_USA_300x300_2in1.png' alt='Sample image to show a result with a deer.'>
+<p><b>Figure 2.</b> Sample image to show a result with a deer.</p></div>
+<div><img width=400 src='IMG/HyphantocerasOrientale_20191128_1a_small-min_2in1.png' alt='Sample image to show a result with a Hyphantoceras orientale.'>
+<p><b>Figure 3.</b> Sample image to show a result with a _Hyphantoceras_ _orientale_ (Sode, 2019).</p></div>
+
+## Reference
+- Sode, Y. 2019. HyphantocerasOrientale_20191128_1a.JPG. YSCollection07_18. https://github.com/YujiSODE/YSCollection07_18
+

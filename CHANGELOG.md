@@ -2,6 +2,7 @@
 # microCHSys
 ## [Unreleased]
 
+## Released: [1.0] - 2025-05-03
 ## [1.0] - 2025-04-30
 ## Changed
 - [`README.md`]: updated according to added two sample results
